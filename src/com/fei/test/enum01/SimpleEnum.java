@@ -33,6 +33,9 @@ public class SimpleEnum {
 			break;
 		}
 	}
+	public void talk(){
+		
+	}
 	public static void main(String[] args) {
 		Sp mildSp = Sp.MILD;
 		System.out.println(mildSp);
